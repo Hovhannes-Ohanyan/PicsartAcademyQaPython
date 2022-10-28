@@ -1,6 +1,6 @@
 {
   "userId": [1,80,"int"],
   "id": [0,1000,"int"],
-  "title": [0,500,"string"],
-  "body": [0,1000,"string"]
+  "title": [10,500,"string"],
+  "body": [20,1000,"string"]
 }
